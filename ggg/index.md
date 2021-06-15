@@ -16,7 +16,7 @@ layout: default
         
       <p>What is the meaning of life?</p>
 <p>Is it this?</p>
-<p><img src="https://chrishumphrey.info/ggg/images/image1.jpg" alt="" width="375" height="500" /></p>
+<p><img src="/ggg/images/image1.jpg" alt="" width="375" height="500" /></p>
         
         
         
