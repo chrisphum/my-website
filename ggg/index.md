@@ -7,7 +7,6 @@ layout: default
     <nav>
 
         <h1><a href="/" style="color:#000000;text-decoration:none;">{{ site.author_name }}</a></h1>
-        <i>WHAT HAPPENS IF I TYPE HERE </i>
         
 
     </nav>
