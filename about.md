@@ -1,3 +1,3 @@
 layout: description
+title: About
 permalink: /about/
-title: [description_page.title]
