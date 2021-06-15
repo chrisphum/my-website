@@ -3,10 +3,10 @@ title: Chris Humphrey
 layout: default
 ---
 
-<div class="mid-section-cover">
+<div class="mid-section-cover" style="text-align:center">
     <nav>
 
-        <center><h1><a href="/" style="color:#000000;text-decoration:none;">{{ site.author_name }}</a></h1></center>
+        <h1><a href="/" style="color:#000000;text-decoration:none;">{{ site.author_name }}</a></h1>
         
 
     </nav>
