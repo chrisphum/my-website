@@ -1,4 +1,15 @@
-layout: home 
-home_text: Text 
-title: [Home Page Title]
-
+---
+title: Chris Humphrey
+layout: default
+---
+<div class="mid-section-home">
+    <h1></span>{{ site.author_name }}</h1>
+    <div class="row sub-heading">
+        <div class="summary-about-me">
+            <p> Experienced Analyst </p>
+        </div>
+        <div class="nav-link">
+            {% include navigation.html %}
+        </div>
+    </div>
+</div>
