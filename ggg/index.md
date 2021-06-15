@@ -5,8 +5,11 @@ layout: default
 
 <div class="mid-section-cover">
     <nav>
-        <h1>{{ site.author_name }}</h1>
-        {% include navigation2.html %}
+        
+        <h1><a href="https://www.chrishumphrey.info/" 
+               style="text-decoration: none">{{ site.author_name }}</a></h1>
+        
+        
     </nav>
     <main class="sub-mid-section-cover">      
         {{ content }}
