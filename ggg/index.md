@@ -5,46 +5,36 @@ layout: default
 
 <div class="mid-section-cover">
     <nav>
-        
-        <h1><a href="https://www.chrishumphrey.info/" 
-               style="text-decoration: none">{{ site.author_name }}</a></h1>
-        
-        
-        <style>
-a:link {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:active {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-</style>
 
+            <style>
+    a:link {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:active {
+      color: black;
+      background-color: transparent;
+      text-decoration: none;
+    }
+                
+    h1 {text-align: center;}
 
+    </style>
 
-    <h1><a href="google.com" target="_blank">{{ site.author_name }}</a></h1>
+        <h1><a href="google.com" target="_blank">{{ site.author_name }}</a></h1>
+        
 
-
-        
-        
-        
-        
-        
-        
-        
     </nav>
     <main class="sub-mid-section-cover">      
         {{ content }}
