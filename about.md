@@ -14722,7 +14722,8 @@ Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdo
 
 
     <p>TEST TEXT</p>
-</div>
+    <img src="githubmap.png" alt="Map">
+
 
 </div>
 
